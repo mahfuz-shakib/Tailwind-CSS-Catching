@@ -18,6 +18,7 @@ Exploring Tailwind CSS
 ✅ Pros:
 
         Fast to build and iterate UI
+        
         Great for responsive and custom designs
         
         Easy to maintain (you see styles in HTML)
@@ -81,8 +82,11 @@ Example
 Full project setup
 
         npx tailwindcss init
+        
         With frameworks
+        
         React, Vue, Next.js, etc.
+        
         Tailwind plugins or custom config
 
 
